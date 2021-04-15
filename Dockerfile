@@ -22,9 +22,10 @@ RUN apk add --update --no-cache \
     netcat-openbsd \
     nodejs \
     openssl \
+    py3-pip \
     pkgconfig \
     postgresql-dev \
-    python \
+    python3 \
     tzdata \
     yarn
 
